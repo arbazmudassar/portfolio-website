@@ -35,8 +35,8 @@ https://arbazmudassar.github.io/portfolio-website/
 ```id="k9x7pw"
 personal-portfolio-website/
 │
-├── portfolio.html
-├── profile.jpg
+├── index.html
+├── profile.png
 ```
 
 ---
